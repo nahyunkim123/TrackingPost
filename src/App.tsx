@@ -154,7 +154,7 @@ function App() {
 
       setIsLoading(isLoading)
       try{
-        const res = await fetch(`http://info.sweettracker.co.kr/api/v1/companylist?t_key=${process.env.REACT_APP_API_KEY}`)
+        const res = await fetch(`https://info.sweettracker.co.kr/api/v1/companylist?t_key=${process.env.REACT_APP_API_KEY}`)
         const data = await res.json();
    
         setCarriers(data.Company);
@@ -195,9 +195,9 @@ function App() {
 
 
   
-  //  const url = new URL(`http://info.sweettracker.co.kr/api/v1/trackingInfo?t_code=${tCode}&t_invoice= ${tinvoice}&t_key=${process.env.REACT_APP_API_KEY}`)
+  //  const url = new URL(`https://info.sweettracker.co.kr/api/v1/trackingInfo?t_code=${tCode}&t_invoice= ${tinvoice}&t_key=${process.env.REACT_APP_API_KEY}`)
 
-      // const url = new URL("http://info.sweettracker.co.kr/api/v1/trackingInfo");
+      // const url = new URL("https://info.sweettracker.co.kr/api/v1/trackingInfo");
       // url.searchParams.append("t_code", tCode);
       // url.searchParams.append("t_invoice", tinvoice);
       // url.searchParams.append("t_key", `${process.env.REACT_APP_API_KEY}`);
