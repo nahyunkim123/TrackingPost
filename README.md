@@ -7,7 +7,9 @@
 
 
 ## 메인화면
-<img width="1095" alt="vendingmachine" src="https://github.com/nahyunkim123/Vending-machine/assets/142788257/ccb22491-8baf-4f62-9eb2-7e0591cdabb8">
+<img width="980" alt="tracking" src="https://github.com/nahyunkim123/TrackingPostwithTypeScript/assets/142788257/88b41da9-4630-442d-adc7-6bff2ae44ac1">
+<img width="563" alt="스크린샷 2023-11-05 오후 10 09 55" src="https://github.com/nahyunkim123/TrackingPostwithTypeScript/assets/142788257/5c33fc87-b54d-49d2-9330-c181328f2cfe">
+
 
 ## 상세설명
  - 내용 : Next.js, tailwindcss, SMART 택배 API를 활용한 실시간 택배 배송조회 웹사이트입니다
@@ -19,6 +21,7 @@
 - 객체 데이터를 사용한 색상 테마 변경 기능
 - Afilter 함수를 사용하여  API 데이터 내 국내외 택배회사 옵션 분류
 - smart 택배 API를 활용한 국내외 택배 배송 조회 기능
+- 반응형 구현(모바일 / PC)
   
 
 <br>
