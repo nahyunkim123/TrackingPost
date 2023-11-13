@@ -8,7 +8,6 @@
 
 ## 메인화면
 <img width="980" alt="tracking" src="https://github.com/nahyunkim123/TrackingPostwithTypeScript/assets/142788257/88b41da9-4630-442d-adc7-6bff2ae44ac1">
-<img width="563" alt="스크린샷 2023-11-05 오후 10 09 55" src="https://github.com/nahyunkim123/TrackingPostwithTypeScript/assets/142788257/5c33fc87-b54d-49d2-9330-c181328f2cfe">
 
 
 ## 상세설명
